@@ -10,17 +10,43 @@ Answer the following questions based on your understanding of the installation a
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
 
+Opened my browser and searched for vscode download. I clicked on the website link https://code.visualstudio.com/download
+I went to the downloads and found the downloaded vscode and the installed it. I opened the desktop icon on my home window to launch vscode. After launching vscode I navigated to extensions to install some extensions. First I searched for prettier, Python, live preview and flutterwave. 
+
+
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+
+The most important settings was about dark and light theme. For me I preferred dark theme. I also enabled autosave. I also installed extensions like prettier., ESlint and pylint. I also installed flutter wave and c/c++ extension. 
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
 
+There is the Activity Bar which is located on the far left side of the window. 
+Explorer which show different files and folders on your work space. 
+Saerch which allow searching of items in your working directory. Extension tab which allows downloading of different extensions. Run and debug which allows you to run and debug my code. 
+Side Bar is next to activity bar and changes according to the selected activity. 
+Editor Group is the central part of VS Code where someone actually writes the code.it contains tabs, split editors, syntax highlighting and code intellisense. 
+
+Status bar is located in the bottom of VS Code window. It displays the different things happening in the code. It shows the current file information, git status, the language one is using to write the code. 
+It also shows errors and warning in the current folder or file. 
+
+
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
 
+
+Command Palette allows quick access to commands without navigating through the menus or remembering keyboard key shortcuts. To access command palette you can keyboard shortcut (ctrl+shift+p) or from menu bar by going to view then  command palette. 
+Opening files and folders, navigating and managing files, terminal management, search and replace, Editor configuration. 
+
 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
+
+
+Extensions helps by enhancing vscode functionality and allowing users to customise their development environment according to their  specific needs. To install extensions one may click on Activity Bar then navigating to extensions or using keyboard shortcut (ctrl+shift+x). 
+To install some extensions search on the search bar for the specific extensions, (please ensure you have Internet connection) some will appear click the one you need then click install. 
+For web development some of the extensions I found useful were prettier, Eslint, HTML and CSS, live server and Git lens. 
+
 
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
