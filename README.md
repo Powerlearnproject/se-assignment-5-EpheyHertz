@@ -43,6 +43,7 @@ Opening files and folders, navigating and managing files, terminal management, s
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
 
 
+
 Extensions helps by enhancing vscode functionality and allowing users to customise their development environment according to their  specific needs. To install extensions one may click on Activity Bar then navigating to extensions or using keyboard shortcut (ctrl+shift+x). 
 To install some extensions search on the search bar for the specific extensions, (please ensure you have Internet connection) some will appear click the one you need then click install. 
 For web development some of the extensions I found useful were prettier, Eslint, HTML and CSS, live server and Git lens. 
@@ -50,6 +51,8 @@ For web development some of the extensions I found useful were prettier, Eslint,
 
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
+
+To open integrated terminal you can use menu by going to the top menu and select View > Terminal or pressing Ctrl +  (backtick).
 
 7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
